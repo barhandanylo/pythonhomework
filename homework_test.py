@@ -27,4 +27,3 @@ def test_something():
     driver.find_element(By.CSS_SELECTOR, 'div.modal-footer.d-flex.justify-content-between > button.btn.btn-primary').click()
     time.sleep(5)
 
-
