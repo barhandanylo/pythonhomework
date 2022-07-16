@@ -1,5 +1,5 @@
 class Assertion:
-    name = ('Vasyaaaa')
-    last_name = ('Pupkovichccc')
-    email = ('VasyokPupkovichccc@gmail.com')
+    name = ('Vasyaaaaa')
+    last_name = ('Pupkovichcccc')
+    email = ('VasyokPupkovichcccc@gmail.com')
     password = ('VasyaReal12')
